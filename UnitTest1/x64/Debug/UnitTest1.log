@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+D:\Visual Studio проекти\LAB_10.4\LAB_10.4\LAB_10.4.cpp(50,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio проекти\LAB_10.4\LAB_10.4\LAB_10.4.cpp(51,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio проекти\LAB_10.4\LAB_10.4\LAB_10.4.cpp(66,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio проекти\LAB_10.4\LAB_10.4\LAB_10.4.cpp(67,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio проекти\LAB_10.4\LAB_10.4\LAB_10.4.cpp(68,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio проекти\LAB_10.4\LAB_10.4\LAB_10.4.cpp(69,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+     Creating library D:\Visual Studio проекти\LAB_10.4\x64\Debug\UnitTest1.lib and object D:\Visual Studio проекти\LAB_10.4\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\Visual Studio проекти\LAB_10.4\x64\Debug\UnitTest1.dll
